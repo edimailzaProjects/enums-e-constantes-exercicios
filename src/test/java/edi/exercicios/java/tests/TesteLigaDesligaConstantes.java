@@ -2,7 +2,7 @@ package edi.exercicios.java.tests;
 
 import static edi.exercicios.java.classes.LigaDesligaUtilizandoConstantes.apertaInterruptor;
 
-public class TesteLigaDesliga
+public class TesteLigaDesligaConstantes
 {
     public static void main(String[] args)
     {
